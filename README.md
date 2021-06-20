@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://logicbomb.medium.com/
+https://logicbomb.medium.com/shift-left-with-aws-codepipleine-scanning-every-single-code-change-273bd74f32a2
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
