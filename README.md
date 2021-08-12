@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Jain a.k.a logicbomb</h1>
-<h3 align="center">I am an information security researcher dealing with complete end-to-end information security. I love to break application logic and find vulnerabilities in them.</h3>
+<h3 align="center">I am an information security researcher working at Microsoft and earlier built complete end-to-end information security in a couple of startups.</h3>
 
 <p align="left"> <a href="https://twitter.com/logicbomb_1" target="blank"><img src="https://img.shields.io/twitter/follow/logicbomb_1?logo=twitter&style=for-the-badge" alt="logicbomb_1" /></a> </p>
 
